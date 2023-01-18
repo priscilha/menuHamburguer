@@ -1,4 +1,4 @@
-# Menu Hamburguer
+# Menu Hambúrguer
 
 Menu hambúrguer sendo transformado pela animação toggle em X.
 
